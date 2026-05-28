@@ -1,4 +1,4 @@
-EL orden de este Readme segun el contenido de codigo viene dado por TLC sigue CCD Flat Fields para la segunda aprte y para la tercer parte Distribución, curva y Mapeo
+EL orden de este Readme segun el contenido de codigo viene dado por TLC sigue CCD Flat Fields para la segunda parte y para la tercer parte Distribución, curva y Mapeo
 # Teorema del Límite Central aplicado a distribuciones de Poisson
 
 ## Descripción del proyecto
